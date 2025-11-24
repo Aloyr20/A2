@@ -8,7 +8,7 @@ Deliverable 3 References:
 
 https://gamedesignskills.com/game-design/racing
 https://www.redblobgames.com/articles/curved-paths
-https://gamedev.stackexchange.com/questions/141265/driver-ai-in-racing-game#:~:text=For%20a%20modern%20game%2C%20the,wheels%20and%20simulating%20the%20consequences.
+https://gamedev.stackexchange.com/questions/141265/driver-ai-in-racing-game.
 https://www.gamedeveloper.com/design/introduction-to-steering-behaviours
 https://www.gamedeveloper.com/programming/animation-blending-achieving-inverse-kinematics-and-more
 https://www.mixamo.com/#/?page=1&query=flying&type=Motion%2CMotionPack
