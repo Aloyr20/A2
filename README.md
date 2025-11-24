@@ -18,10 +18,8 @@ https://www.mixamo.com/#/?page=1&query=celebration&type=Motion
 
 Deliverable 4 References:
 
-https://sketchfab.com/3d-models/chain-chomp-super-mario-bros-dd1c74820f694990a3715e137
-ec30c5d
-https://sketchfab.com/3d-models/wii-u-mario-kart-8-gold-glider-0d9f7c3cfc9c431c82ba91874819
-ad92
+https://sketchfab.com/3d-models/chain-chomp-super-mario-bros-dd1c74820f694990a3715e137ec30c5d
+https://sketchfab.com/3d-models/wii-u-mario-kart-8-gold-glider-0d9f7c3cfc9c431c82ba91874819ad92
 https://sketchfab.com/3d-models/sports-bike-a80259b859c842d5824c25c61e0fc421
 https://sketchfab.com/3d-models/mario-kart-8b846b10ea9f45359c0197191a117800
 https://sketchfab.com/3d-models/banana-peel-mario-kart-c7fd163741614859ba02f302ce0bce32
